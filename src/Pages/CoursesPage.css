@@ -1,0 +1,46 @@
+.video{
+    width: 800px;
+    height: auto;
+    display:block;
+    margin:auto;
+   
+}
+
+
+#tbl{
+    color: black;
+}
+
+#par{
+    text-align: center;
+}
+
+#ull{
+    text-align: left;
+    
+}
+
+
+#bb{
+    background-color: darkgreen;
+    color: white;
+    margin-left: 45%;
+
+}
+.head2{
+    background-color: aliceblue;
+    width: 80%;
+    line-height: 1.5;
+    margin: 15px auto;
+
+}
+.course{
+    background-color: rgb(66, 236, 227);
+    position:relative;
+    width: 1500px;
+    height:350;
+    overflow:hidden;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    
+}
