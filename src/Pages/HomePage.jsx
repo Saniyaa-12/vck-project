@@ -11,7 +11,7 @@ const HomePage = () => {
                 
                 <div className='head2'>
                     <div className="overlay">   
-                        <img src="E:\sec-react-app\sec-react-pro\public\image\vck.jpeg" height="400" width="960" alt="vck"/>
+                        <img src="/image/vck.jpeg" height="400" width="960" alt="vck"/>
                         <div class="center"><h1 ClassName="welcome">Welcome to Vivekanand College !</h1></div>
 
                     </div>
@@ -39,8 +39,8 @@ const HomePage = () => {
 
                     <div ClassName="image">
                 
-                            <img src="/public/image/vck1.jpeg"height="400" width="450" alt="vck"/>
-                            <img src="/public/image/vck2.jpeg" height="400" width="450" alt="vck2"/>
+                            <img src="/image/vck1.jpeg"height="400" width="450" alt="vck"/>
+                            <img src="/image/vck2.jpeg" height="400" width="450" alt="vck2"/>
                     </div>
                             
                 <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning

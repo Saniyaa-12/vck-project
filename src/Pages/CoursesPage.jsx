@@ -16,7 +16,7 @@ const CoursesPage = () =>{
 
         <h2>Discover Campus Life</h2>
             <video className='video' controls>
-                <source src="/public/video/college-tour.mp4"/>
+                <source src="/video/college-tour.mp4"/>
             </video> 
         
         <p id="par">Get a glimpse of the vibrant academic and social life at Vivekanand College.</p>
