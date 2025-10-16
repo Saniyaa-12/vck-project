@@ -11,7 +11,7 @@ const HomePage = () => {
                 
                 <div className='head2'>
                     <div className="overlay">   
-                        <img src="/public/image/vck.jpeg" height="400" width="960" alt="vck"/>
+                        <img src="E:\sec-react-app\sec-react-pro\public\image\vck.jpeg" height="400" width="960" alt="vck"/>
                         <div class="center"><h1 ClassName="welcome">Welcome to Vivekanand College !</h1></div>
 
                     </div>
